@@ -1,0 +1,28 @@
+body {
+  background-color: antiquewhite;
+}
+
+input {
+  border-radius: 5px;
+  width: 200px;
+  padding: 10px 50px;
+  border: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+button {
+  width: 100px;
+  border-radius: 5px;
+  padding: 10px 10px;
+  border: none;
+  background-color: rgb(244, 183, 183);
+}
+
+.main_div {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
